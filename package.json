@@ -1,0 +1,15 @@
+{
+  "name": "screenshot-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "[![\"Today's Tips - Events Happening Today in Hamburg\"](images/11.png)](https://rausgegangen.de/en/hamburg/)",
+  "dependencies": {
+    "puppeteer": "^23.11.1"
+  }
+}
