@@ -57,6 +57,40 @@
 
 </details>
 
+
+### Mojo Club
+
+[![Mojo Club](images/15.png)](https://www.mojo.de/programme/)  
+
+- [Google Maps Location](https://maps.app.goo.gl/CF7hfjJqEy5VxyXQ6)
+
+<details>  
+  <summary>More Information</summary>  
+
+  **Address:** Reeperbahn 1, 20359 Hamburg, Germany  
+  **Website:** [https://www.mojo.de](https://www.mojo.de/programme/)  
+
+  **Background:**  
+  The Mojo Club is a renowned music club and live venue located in Hamburg on the famous Reeperbahn. Known for its pioneering role in modern breakbeat-oriented sounds like acid jazz, the club has left a lasting mark on dancefloor jazz and alternative music scenes.  
+
+  **History:**  
+  - Founded: 11 February 1989  
+  - Initially located in a former bowling alley, the original venue closed in 2003 to make way for the landmark "Dancing Towers."  
+  - After a 10-year hiatus, the Mojo Club reopened in 2013, featuring a redesigned interior beneath the Dancing Towers, designed by Hadi Teherani.  
+
+  **Features:**  
+  - Location: St. Pauli, with public transit access via St. Pauli station.  
+  - Owner: Mojo Club Reeperbahn GmbH  
+  - Capacity: 800 guests  
+  - Architectural Highlights: Exterior by Hadi Teherani and club interior by Thomas Baecker.  
+
+  **Genres and Events:**  
+  - Jazz, bossa nova, alternative rock, new wave, and electronic music.  
+  - A venue for innovative and eclectic music performances that continue to attract both locals and international visitors.  
+
+</details>
+
+
 ### Nochtspeicher
 
 [![Nochtspeicher](images/2.png)](https://nochtspeicher.de/)

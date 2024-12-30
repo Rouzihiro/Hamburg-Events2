@@ -17,7 +17,9 @@ const urls = [
   'https://rausgegangen.de/en/hamburg/',
   'http://nachtasyl.de/',
   'https://www.zwick4u.com/live-musik-de-16.html',
-  'https://www.zwick4u.com/sport-live-de-17.html'
+  'https://www.zwick4u.com/sport-live-de-17.html',
+  'https://www.mojo.de/programme/',
+   
 ];
 
 (async () => {
