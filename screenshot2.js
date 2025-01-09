@@ -25,7 +25,7 @@ const urls = [
 (async () => {
   // Launch the browser with the system-installed Chromium path
   const browser = await puppeteer.launch({
-    executablePath: '/etc/profiles/per-user/rey/bin/chromium', // Use the system path here
+    executablePath: '/run/current-system/sw/bin/chromium', // Use the system path here
     args: ['--no-sandbox'] // Optional: Use if you face sandboxing issues
   });
   
